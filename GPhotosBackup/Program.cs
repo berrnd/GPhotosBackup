@@ -74,12 +74,8 @@ namespace GPhotosBackup
 
                         totalSize += new FileInfo(picturePath).Length;
                         pictureCount++;
-                        if (pictureCount > 5)
-                            break;
                     }
                     albumCount++;
-                    if (pictureCount > 5)
-                        break;
                 }
 
                 DateTime end = DateTime.Now;
