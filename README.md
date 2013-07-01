@@ -11,7 +11,7 @@ Just call it like this:
 
 Download/Installation
 -------------
-Get it [**here**](http://link.will.come).
+Get it [**here**](https://raw.github.com/berrnd/GPhotosBackup/master/.release/GPhotosBackup.zip).
 
 No installation is needed, just unpack anywhere!
 
@@ -23,6 +23,8 @@ Roadmap
 ####Licence
 GPL v3 or later
 
+
+
 ####Credits
 Many thanks go to:
 - [google-gdata](https://code.google.com/p/google-gdata/)
@@ -31,7 +33,7 @@ Many thanks go to:
 This app collects absolutely anonymous usage statistics.
 When I develop something for everyone, I want to know a little bit about how often it is used.
 
-So I collect only one total number: How often the application is opened (I call it "Heartbeat").
+So I collect only one summarized number: How often the application is opened (I call it "Heartbeat").
 
-You can ensure yourself about this by looking at the [responsible source code for this action](http://link.will.come).
+You can ensure yourself about this by looking at the [responsible source code for this action](https://github.com/berrnd/GPhotosBackup/tree/master/GPhotosBackup/Analytics).
 If you don't agree with that, simply don't use this application.
