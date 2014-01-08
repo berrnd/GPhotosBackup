@@ -37,3 +37,4 @@ So I collect only one summarized number: How often the application is opened (I 
 
 You can ensure yourself about this by looking at the [responsible source code for this action](https://github.com/berrnd/GPhotosBackup/tree/master/GPhotosBackup/Analytics).
 If you don't agree with that, simply don't use this application.
+![](http://piwik.bebcloud.de/piwik.php?idsite=12&rec=1&action_name=GPhotosBackup)
