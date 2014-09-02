@@ -28,5 +28,3 @@ GPL v3 or later
 ####Credits
 Many thanks go to:
 - [google-gdata](https://code.google.com/p/google-gdata/)
-
-![](http://piwik.bebcloud.de/piwik.php?idsite=12&rec=1&action_name=GPhotosBackup)
